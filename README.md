@@ -4,9 +4,11 @@ Unipool เป็นโปรเจกต์ออกแบบระบบ Carpo
 - [View Interactive Figma Prototype](https://www.figma.com/proto/3pUL59lALDdNtc2ZTsehmV/Carpool?node-id=0-1&t=d3J2DYw6ndZI9oBM-1)
 
 ## 📱 Preview
-![Mockup video])
 
 https://github.com/user-attachments/assets/db623be9-6895-4b92-b274-5fb7f62265cb
+
+## Figma Design
+https://www.figma.com/design/3pUL59lALDdNtc2ZTsehmV/Carpool?node-id=0-1&t=31M9Gm7MF8Dr7OMM-1
 
 ## 🎯 Key Features
 - ค้นหาและจับคู่เส้นทางเดินทางระหว่างนักศึกษา
@@ -15,4 +17,5 @@ https://github.com/user-attachments/assets/db623be9-6895-4b92-b274-5fb7f62265cb
 
 ## 🛠️ Tools Used
 - Figma (Wireframe, UI Design, Interactive Prototype)
+
 ## Report https://docs.google.com/document/d/1iYkAT8jHzEl6EFACul6cbS5q94etkE2rM5xAZC3kbOE/edit?usp=sharing
