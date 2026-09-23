@@ -6,6 +6,8 @@ Unipool เป็นโปรเจกต์ออกแบบระบบ Carpo
 ## 📱 Preview
 ![Mockup video])
 
+https://github.com/user-attachments/assets/db623be9-6895-4b92-b274-5fb7f62265cb
+
 ## 🎯 Key Features
 - ค้นหาและจับคู่เส้นทางเดินทางระหว่างนักศึกษา
 - ระบบตรวจสอบตัวตนผ่านอีเมลมหาวิทยาลัย
